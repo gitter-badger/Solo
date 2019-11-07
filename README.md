@@ -1,5 +1,7 @@
 # solo
 
+[![Join the chat at https://gitter.im/S0Io/community](https://badges.gitter.im/S0Io/community.svg)](https://gitter.im/S0Io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > An Soundcloud Desktop
 
 #### Build Setup
